@@ -12,7 +12,7 @@ class ProjectCard extends HTMLElement {
       background-color: var(--card-bg-color, #eda7a7);
       padding: 20px;
       border-radius: 10px;
-      box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+      box-shadow: 2px 4px 6px rgba(0, 0, 0, 0.1);
       text-align: center;
     }
 
