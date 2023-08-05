@@ -9,7 +9,7 @@ class ProjectCard extends HTMLElement {
     }
 
     .project-card {
-      background-color: var(--card-bg-color, #eda7a7);
+      background-color: var(--card-color, #eda7a7);
       padding: 20px;
       border-radius: 10px;
       box-shadow: 2px 4px 6px rgba(0, 0, 0, 0.1);
